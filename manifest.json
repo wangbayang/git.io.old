@@ -11,6 +11,11 @@
       "src": "/stock.png",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/png"
+    },
+    {
+      "src": "/vue.png",
+      "sizes": "512x512",
+      "type": "image/png"
     }
   ],
   "start_url": "/index.html",
