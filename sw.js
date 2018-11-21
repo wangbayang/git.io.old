@@ -10,7 +10,7 @@ this.addEventListener('install', event => {
 this.addEventListener('activate', event => {
   console.log('activate');
   // 在新线程激活后立即控制之前没有控制的客户端，从而达到第一次创建线程就可以劫持fetch，不用再刷新一次。
-  clients.claim();
+  // clients.claim();
 })
 
 this.addEventListener('fetch', event => {
