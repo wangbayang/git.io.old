@@ -8,7 +8,5 @@
   "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
   "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg",
   "static/css/main.fda6c4a5.chunk.css.map": "/static/css/main.fda6c4a5.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.9131e44f93dc4ff6b6c8214e359a7d76.js": "/precache-manifest.9131e44f93dc4ff6b6c8214e359a7d76.js",
-  "service-worker.js": "/service-worker.js"
+  "index.html": "/index.html"
 }
