@@ -72,7 +72,6 @@ this.addEventListener('message', event => {
       .then(function (clients) {
         if (clients && clients.length) {
           clients.forEach(function (client) {
-            // 发送字符串'sw.update'
             client.postMessage('down');
           })
         }
